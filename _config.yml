@@ -1,4 +1,3 @@
-layout_spectrum: 0.03952794591896236
 typography_spectrum: 0.7815667479299009
 color:
   brandStrength: 0.450688021723181
@@ -11,4 +10,8 @@ color:
     - '#29D9C2'
     - '#BDF271'
     - '#FFFFA6'
+layout_spectrum: 0.03952794591896236
 name: Grace Vacation Rentals Maui
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/9f316063-6073-40b5-b569-df73b8c17904.jpg
+title: Our Paradise For You!
